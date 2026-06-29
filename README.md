@@ -1,4 +1,4 @@
-# Velorah — Hero Section
+# A Hero Section
 
 A single-page hero built with React + Vite + TypeScript + Tailwind CSS, using a
 shadcn/ui `Button` (with an added `glass` variant) for the glassmorphic CTAs.
