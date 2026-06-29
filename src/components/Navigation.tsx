@@ -17,7 +17,7 @@ export default function Navigation() {
         className="text-3xl tracking-tight text-foreground"
         style={{ fontFamily: "'Instrument Serif', serif" }}
       >
-        Velorah<sup className="text-xs">®</sup>
+        {/* Velorah<sup className="text-xs">®</sup> */}
       </a>
 
       <div className="hidden md:flex items-center gap-10">
